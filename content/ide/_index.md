@@ -3,7 +3,11 @@ title: "1. Среда разработки"
 weight: 10
 ---
 
-## <a target="_blank" rel="noopener noreferrer" href="../slides/ide.html">Лекция</a>
+## Лекция
+
+06.09.2021.
+
+<a target="_blank" rel="noopener noreferrer" href="../slides/ide.html">Слайды</a> (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 

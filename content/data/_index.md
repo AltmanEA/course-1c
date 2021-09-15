@@ -3,7 +3,11 @@ title: "2. Справочники, реквизиты, табличные час
 weight: 10
 ---
 
-## <a target="_blank" rel="noopener noreferrer" href="../slides/data.html">Лекция</a>
+## Лекция
+
+20.09.2021.
+
+<a target="_blank" rel="noopener noreferrer" href="../slides/data.html">Слайды</a> 
 
 ## Задание к лабораторной работе
 
