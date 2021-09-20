@@ -7,7 +7,7 @@ weight: 10
 
 20.09.2021.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/document.html">Слайды</a>
+<a target="_blank" rel="noopener noreferrer" href="../slides/document.html">Слайды</a>  (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
