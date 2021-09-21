@@ -1,5 +1,5 @@
 ---
-title: "1. Среда разработки"
+title: "1. Введение"
 weight: 10
 ---
 
@@ -7,7 +7,9 @@ weight: 10
 
 06.09.2021.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/ide.html">Слайды</a> (аудиофайлы выложены).
+<a target="_blank" rel="noopener noreferrer" href="../slides/intro.html">Организационные вопросы</a> (аудиофайлы выложены).
+
+<a target="_blank" rel="noopener noreferrer" href="../slides/ide.html">Среда разработки</a> (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
