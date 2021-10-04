@@ -7,9 +7,9 @@ weight: 10
 
 04.10.2021.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/register.html">Регистры</a>.
+<a target="_blank" rel="noopener noreferrer" href="../slides/register.html">Регистры</a> (аудиофайлы выложены).
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/debug.html">Код и его отладка в 1C</a>.
+<a target="_blank" rel="noopener noreferrer" href="../slides/debug.html">Код и его отладка в 1C</a>(аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
