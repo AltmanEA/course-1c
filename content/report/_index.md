@@ -1,5 +1,5 @@
 ---
-title: "4. Отчеты и запросы"
+title: "4. Отчеты. Запрос данных."
 weight: 10
 ---
 
@@ -7,9 +7,7 @@ weight: 10
 
 18.10.2021.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/report.html">Обзор построения отчетов</a>.
-
-
+<a target="_blank" rel="noopener noreferrer" href="../slides/report.html">Отчеты. Запрос данных.</a>
 
 ## Задание к лабораторной работе
 
