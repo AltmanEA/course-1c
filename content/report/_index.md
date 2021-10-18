@@ -7,7 +7,8 @@ weight: 10
 
 18.10.2021.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/report.html">Отчеты. Запрос данных.</a>
+<a target="_blank" rel="noopener noreferrer" href="../slides/report.html">Отчеты. Запрос данных</a> (аудиофайлы выложены).
+
 
 ## Задание к лабораторной работе
 
