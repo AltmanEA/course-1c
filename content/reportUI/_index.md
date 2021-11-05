@@ -5,7 +5,7 @@ weight: 10
 
 ## Лекция
 
-01.11.2021.
+08.11.2021.
 
 <a target="_blank" rel="noopener noreferrer" href="../slides/reportUI.html">Отчеты. Представление данных</a>.
 
