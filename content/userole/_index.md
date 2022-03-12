@@ -7,7 +7,7 @@ weight: 10
 
 12.03.2022.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/userole.html">Пользователи и роли</a>.
+<a target="_blank" rel="noopener noreferrer" href="../slides/userole.html">Пользователи и роли</a> (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
