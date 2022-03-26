@@ -7,7 +7,7 @@ weight: 10
 
 26.03.2022.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/userface.html">Интерфейс приложения для пользователей</a>.
+<a target="_blank" rel="noopener noreferrer" href="../slides/userface.html">Интерфейс приложения для пользователей</a> (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
