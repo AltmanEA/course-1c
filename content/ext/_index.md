@@ -7,7 +7,7 @@ weight: 10
 
 23.04.2022.
 
-<a target="_blank" rel="noopener noreferrer" href="../slides/ext.html">Расширения конфигурации</a>.
+<a target="_blank" rel="noopener noreferrer" href="../slides/ext.html">Расширения конфигурации</a> (аудиофайлы выложены).
 
 ## Задание к лабораторной работе
 
